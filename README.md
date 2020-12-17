@@ -6,6 +6,7 @@ _This paper proposes an efficient deep learning classifier built on Bayesian dee
 
 ## omniscan.py 
 This file contains OFA implemetation algorithm 
+####TO DO
 
 ## Datasets
 ### Check details in dataset directory
