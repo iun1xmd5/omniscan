@@ -15,3 +15,29 @@ This file contains OFA implemetation algorithm
 2. Keras 2.3.1
 3. Python 3.6
 
+## Dependencies
+1. Tensoflow 2
+2. Keras 2.3.1
+3. Python 3.6
+4. Matplotlib
+5. tqdm
+
+If you find this code useful in your research, please, consider citing our paper:
+
+# Reference
+```
+  @inproceedings{wamburavsip2020,
+	AUTHOR = "Stephen Wambura and He Li", 
+	TITLE = "Deep and Confident Image Analysis for Disease Detection",
+	publisher = {Association for Computing Machinery},
+	booktitle  = {VSIP 2020: Proceedings of the 2020 2nd International Conference on Video, Signal and Image Processing},
+	address   = {Jakarta, Indonesia},
+	month  = {4-6 December},
+	pages  = {},
+	YEAR = {2020},
+}
+```
+# License
+OFA is distributed under Apache 2.0 license.
+
+Contact: Stephen Wambura - ceo@stephenwambura.com
